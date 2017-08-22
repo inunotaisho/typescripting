@@ -6,7 +6,7 @@ Then write a program that prints the text "HELLO, WORLD" to the console (stdout)
 ----------------------------------------------------------------------
 ## HINTS
 
-To pass this exercise, you must do two things. First create a function "greeter" with a declared type. An example is: 
+To pass this exercise, you must do two things. First create a "greeter" function with a declared type. An example is: 
 
 ```ts
 function Greeter(greeting: string){
