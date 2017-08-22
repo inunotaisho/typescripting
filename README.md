@@ -1,0 +1,2 @@
+**Disclaimer**
+This repo is the beginning of a workshop for Nodeschool called `typescripting`. It is designed to teach beginners how to use Microsoft's Typescript and the fundmentals. Another workshop will be started to go into Typescript in more detail, but first thing is first. 

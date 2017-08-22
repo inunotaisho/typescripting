@@ -7,3 +7,8 @@ const typescripting = require('workshopper-adventure')({
     pass: require('workshpper-adventure/default/pass')
 })
 
+typescripting.addAll([
+    'HELLO WORLD TSC'
+])
+
+module.exports = typescripting
