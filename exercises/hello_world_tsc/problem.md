@@ -14,4 +14,10 @@ function Greeter(greeting: string){
 }
 ```
 We will cover types in the next exercise.
+```ts
+greet = function(){
+    return "HELLO, " + this.greeting;
+}
+```
+
 
